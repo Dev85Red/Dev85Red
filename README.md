@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node js
 - 💼 Working in ... AI company
 - 💞️ I’m looking to collaborate on something cool
-- 📫 How to reach me find me no where
+- 📫 How to reach me, find me no where
 - ⚡ Fun fact: love to game Age of empires...
 
 <!---
